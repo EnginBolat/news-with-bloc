@@ -1,17 +1,64 @@
-# news_with_bloc
+# Flutter - News App
 
-A new Flutter project.
+News App I made with Flutter.
 
-## Getting Started
+## About App
 
-This project is a starting point for a Flutter application.
+Things To Do
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+  ✅ Splash Screen
+  ✅ Home Screen
+  ✅ Categories
+  ✅ Navigate To News
+  ✅ API Integration
+  ✅ Performance Upgrades
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Dependencies
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# news_with_bloc
+```bash
+  http: https://pub.dev/packages/http
+  flutter_native_splash: https://pub.dev/packages/flutter_native_splash
+  cached_network_image: https://pub.dev/packages/cached_network_image
+  flutter_cache_manager: https://pub.dev/packages/flutter_cache_manager
+  youtube_player_flutter: https://pub.dev/packages/youtube_player_flutter
+  page_transition: https://pub.dev/packages/page_transition
+  
+  # State Management
+  bloc: https://pub.dev/packages/bloc
+  meta: https://pub.dev/packages/meta
+  flutter_bloc: https://pub.dev/packages/flutter_bloc
+  flutter_spinkit: https://pub.dev/packages/flutter_spinkit
+  dio: https://pub.dev/packages/dio
+  url_launcher: https://pub.dev/packages/url_launcher
+  flutter_native_splash:https://pub.dev/packages/flutter_native_splash
+
+```
+
+## Run Locally
+
+Clone the project
+
+```bash
+  https://github.com/EnginBolat/news_with_bloc.git
+```
+
+Go to the project directory
+
+```bash
+  cd news_with_bloc
+```
+
+Install dependencies
+
+```bash
+  flutter pub get
+```
+
+Run App
+
+```bash
+  flutter run
+```
+
