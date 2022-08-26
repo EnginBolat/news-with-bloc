@@ -18,14 +18,6 @@ Things To Do
 Dependencies
 
 ```bash
-  http: https://pub.dev/packages/http
-  flutter_native_splash: https://pub.dev/packages/flutter_native_splash
-  cached_network_image: https://pub.dev/packages/cached_network_image
-  flutter_cache_manager: https://pub.dev/packages/flutter_cache_manager
-  youtube_player_flutter: https://pub.dev/packages/youtube_player_flutter
-  page_transition: https://pub.dev/packages/page_transition
-  
-  # State Management
   bloc: https://pub.dev/packages/bloc
   meta: https://pub.dev/packages/meta
   flutter_bloc: https://pub.dev/packages/flutter_bloc
